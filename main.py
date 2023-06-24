@@ -18,4 +18,4 @@ jobkorea = extract_jobkorea_jobs("python")
 
 jobs = wwr + indeed + jobkorea
 
-save_to_file("./results/python_joblist",jobs)
+save_to_file("./results/python_joblist1",jobs)
